@@ -22,3 +22,8 @@ p {
   font-family: 'Comic Sans'
 }
 ```
+
+## Creating a task list
+- [ ] Turn on github pages
+- [ ] Give the dog a treat
+- [ ] Drink coffee at 10pm 
